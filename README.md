@@ -2,8 +2,8 @@
 #
 #Author: Juan Caicedo
 #
-#You will find common checks used for use with Zenoss monitoring.
-#These checks are Naglios style checks, whcih follow exit code status to generat#e warnings, error or critical alerts within Zenoss. 
+#You will find common checks used for use with the Zenoss monitoring system.
+#These checks are Naglios style checks, which follow normal exit code status to #generate warnings, errors or critical alerts from within Zenoss. 
 #Currently functional under ver 3.2.1
 #
 #
